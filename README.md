@@ -1,6 +1,6 @@
 # flaml_automl
 
-<img src="FLAML.png" width="500" height="600">
+<img src="FLAML.png" width="400" height="400">
 
 Dataset :- 
 1. Airlines for automl
